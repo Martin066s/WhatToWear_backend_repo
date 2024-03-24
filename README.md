@@ -6,5 +6,6 @@ realtime weather data from weather API.
 used technologies:
  - Maven
  - Spring Boot
+ - PostgreSQL
 
 uses CRUD design pattern
