@@ -1,5 +1,7 @@
 # WhatToWear (backend)
 
+#### WhatToWear frontend repository: https://github.com/Martin066s/WhatToWear_frontend_repo
+
 WhatToWear recommends you clothes based on entered temperature. In later version should recommend clothes based on
 realtime weather data from weather API.
 
@@ -11,3 +13,5 @@ used technologies:
  - PostgreSQL
 
 HTTP requests implemented with CRUD design pattern
+
+
